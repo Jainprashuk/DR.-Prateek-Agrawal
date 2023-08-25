@@ -1,0 +1,214 @@
+[
+    {
+      "title": "UCred: fusion of machine learning and deep learning methods for user credibility on social media",
+      "description": "Lorem ipsum dolor sit amet...",
+      "tags": ["#photography", "#travel", "#winter"]
+    },
+    {
+      "title": "MCred: multi-modal message credibility for fake news detection using BERT and CNN",
+      "description": "Lorem ipsum dolor sit amet...",
+      "tags": ["#photography", "#travel", "#summer"]
+    },
+    {
+      "title": "“Quality analysis for reliable complex multiclass neuroscience signal classification via electroencephalography",
+      "description": "Lorem ipsum dolor sit amet...",
+      "tags": ["#photography", "#travel", "#fall"]
+    },
+    {
+        "title": "Anuvaad: A Hindi-Sanskrit-Hindi Bilingual Machine Translation System Using Rule-Based Approach",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#summer"]
+      },
+      {
+        "title": "FSpot: Fast and Efficient Video Encoding Workloads Over Amazon Spot Instances",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "WELFake: word embedding over linguistic features for fake news detection",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#summer"]
+      },
+      {
+        "title": "FOCOMO: Forecasting and monitoring the worldwide spread of COVID-19 using machine learning methods",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+    {
+        "title": "XCOVNet: Chest X-ray Image Classification for COVID-19 Early Detection Using Convolutional Neural Networks",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#summer"]
+      },
+      {
+        "title": "FaD-CODS Fake News Detection on COVID-19 Using Description Logics and Semantic Reasoning",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "HuDA_COVID Human Disposition Analysis During COVID-19 Using Machine Learning",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#summer"]
+      },
+      {
+        "title": "FastTTPS:Fast Approach for Video Transcoding Time Prediction and Scheduling for HTTP Adaptive Streaming Videos",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Automated Bank Cheque Verification Using Image Processing and Deep Learning Methods",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "A Dynamic Evolutionary Multi-Objective Virtual Machine Placement Heuristic for Cloud Data Centers",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "A Machine Translation System from Hindi to Sanskrit Language using Rule based Approach",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Anuvaadika: Implementation of Sanskrit to Hindi translation tool using Rule-based approach",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Moving Object Detection and Recognition Using Optical Flow and EigenFace Using Low Resolution Video",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "English to Sanskrit Transliteration: an effective approach to design Natural Language Translation Tool",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "A Novel Approach to Paraphrase English Sentences using Natural Language Processing",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "X-HuBIS: A fuzzy rule based human behavior identification system based on body gestures",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "ExPaR: A Fuzzy Rule Based Expert System for Palmistry",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Optimisation of Image Fusion using Feature Matching Based on SIFT and RANSAC",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Classification of Uterine Cervical Cancer Histology Image using Active Contour Region based Segmentation",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "X-Tumour: Fuzzy Rule based Medical Expert System to Detect Tumours in Gynecology",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Fuzzy Expert System to Calculate the Strength / Immunity of a Human Body",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Automated Title Generation in English Language using NLP",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Fuzzy Expert System for Identifying the Physical Constituents of a Human Body",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Breast Cancer Diagnosis using Digital Image Segmentation Techniques",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Classification of Clinical Dataset of Cervical Cancer using KNN",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "X-Gyno: Fuzzy Method based Medical Expert System for Gynecology",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Fuzzy Rule based Expert System for Evaluating Defaulter Risk in Banking Sector",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "A novel Approach to Paraphrase Hindi sentences using Natural Language Processing",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Fuzzy Rule Based Medical Expert System to Identify the Disorders of Eyes, ENT and Liver",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Automated Title Generation in English Language using NLP",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Text Independent Root Word Identification in Hindi language using Natural Language Processing",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Classification of Follicular Lymphoma Grades using Support Vector Machine",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Texture Classification of Biased Cytoplasmic Tissue Sample from Histopathological Imagery by Gabor Application",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Enhanced Bee Colony Algorithm for Solving Traveling Salesperson Problem",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Indexed Tree Sort: An Approach to Sort Huge Data with Improved Time Complexity",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "MultiLingual Speaker Identification on Foreign Languages using Artificial Neural Network",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Analysis and Synthesis of Enhanced Ant Colony Optimization with the Traditional Ant Colony Optimization to Solve Traveling Salesperson Problem",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Analysis and Synthesis of Enhanced Bee Colony Optimization with the Traditional Bee Colony Optimization to Solve Traveling Salesperson Problem",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      },
+      {
+        "title": "Ant Colony Optimization: A Technique used for Image Processing",
+        "description": "Lorem ipsum dolor sit amet...",
+        "tags": ["#photography", "#travel", "#fall"]
+      }
+      
+  ]
+  
