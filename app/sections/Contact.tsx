@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { spaceGrotesk } from "../fonts/spaceGrotesk";
 import "../animations/animate.css";
 import AnimatedBody from "../animations/AnimatedBody";
 import AnimatedTitle from "../animations/AnimatedTitle";
