@@ -13,11 +13,9 @@ import Hero from "./sections/Hero";
 import About from "./sections/About";
 import Stats from "./sections/Stats.tsx";
 import Work from "./sections/Work";
-import Contact from "./sections/Contact";
 import Footer from "./sections/Footer";
 import Tools from "./sections/Tools.tsx";
 import Experience from "./experience/page.tsx";
-import Testimonials from "./Testimonials/page.tsx";
 
 export default function Home() {
 
@@ -86,7 +84,6 @@ export default function Home() {
                 {/* <Tools /> */}
                 <Experience/>
                 {/* <Testimonials/> */}
-                {/* <Contact /> */}
                 <Footer />
             </main>
             {/*</ScrollerMotion>*/}
