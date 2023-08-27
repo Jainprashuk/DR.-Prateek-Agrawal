@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
-import { spaceGrotesk } from '../fonts/spaceGrotesk';
+// import { spaceGrotesk } from '../fonts/spaceGrotesk';
 import Image from 'next/image';
 
 
@@ -40,11 +40,11 @@ const Profile = () => {
             ref={profileRef}
         >
             <div
-                className={`item-center inner relative flex flex-col justify-center ${spaceGrotesk.className} pointer-events-none`}
+                className={`item-center inner relative flex flex-col justify-center  pointer-events-none`}
             >
                 <div className="flex flex-col items-center justify-center profile-animation sm:mt-0">
                     <div
-                        className={`item-center inner relative flex flex-col justify-center ${spaceGrotesk.className} pointer-events-none`}
+                        className={`item-center inner relative flex flex-col justify-center  pointer-events-none`}
                     >
                         {/* <Logo width={100} height={100} /> */}
                         <div className="flex flex-col border-profile p-20 items-center relative"> {/* Add 'relative' position here */}
