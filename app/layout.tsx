@@ -22,7 +22,7 @@
 //         "Lovely Proffesional university",
 //         "Lpu",
 //         "frontend developer portfolio",
-        
+
 //     ],
 //     colorScheme: "dark",
 //     openGraph: {
@@ -86,93 +86,13 @@ type RootLayoutProps = {
 };
 
 export default function RootLayout({ children }: RootLayoutProps) {
-    return (
-        <html lang="en">
-            <body
-                className={` scroll-smooth scrollbar-none scrollbar-track-[#0E1016] scrollbar-thumb-[#212531]`}
-            >
-                <Providers>
-                    {children}
-                </Providers>
-            </body>
-        </html>
-    );
+  return (
+    <html lang="en">
+      <body
+        className={` scroll-smooth scrollbar-none scrollbar-track-[#0E1016] scrollbar-thumb-[#212531]`}
+      >
+        <Providers>{children}</Providers>
+      </body>
+    </html>
+  );
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
