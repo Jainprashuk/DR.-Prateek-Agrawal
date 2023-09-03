@@ -74,6 +74,7 @@ import React, { ReactNode } from "react";
 import type { Metadata } from "next";
 // import { Syne } from "next/font/google";
 import { Providers } from "./providers";
+import { Analytics } from '@vercel/analytics/react';
 
 // const syne = Syne({
 //     subsets: ["latin"],
@@ -92,6 +93,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
         className={` scroll-smooth scrollbar-none scrollbar-track-[#0E1016] scrollbar-thumb-[#212531]`}
       >
         <Providers>{children}</Providers>
+        <Analytics/>
       </body>
     </html>
   );
