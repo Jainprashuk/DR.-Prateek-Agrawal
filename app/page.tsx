@@ -87,6 +87,7 @@ export default function Home() {
                 <Experience/>
                 {/* <Testimonials/> */}
                 <Footer />
+                <Analytics/>
             </main>
             {/*</ScrollerMotion>*/}
         </>
